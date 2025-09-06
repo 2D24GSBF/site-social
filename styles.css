@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #857e7a;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -24,14 +24,14 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #857e7a;
     font-weight: 600;
     font-size: 2rem;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/fundo-verde-textura-3000-2000.jpg');
+    background-image: url('img/ChatGPT\ Image\ 3_09_2025\,\ 10_51_32.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -46,9 +46,9 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 0;
+    right: 15rem;
     top: 18rem;
-    width: 45rem;
+    width: 35rem;
     height: auto;
 }
 
@@ -81,8 +81,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.jpg') bottom left no-repeat;
+    background: url('img/ChatGPT\ Image\ 5_09_2025\,\ 23_24_45.png') top right no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -109,13 +108,8 @@ h2 {
 
 }
 
-.fundo-galeria {
-    background: url('img/flor-direita-300-460.png') bottom right no-repeat;
-    /* background-size: 180px 180px; */
-}
-
 #contato {
-    background-image: url('img/fundo-de-papel-3000-2000.jpg');
+    background-image: url('img/ChatGPT\ Image\ 3_09_2025\,\ 10_51_32.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
